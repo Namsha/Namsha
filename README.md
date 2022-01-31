@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding | Coding |
 - 🌱 I’m currently learning ...computer science degree
 - 💞️ I’m looking to collaborate on ...all people in my relevant field
-- 📫 How to reach me ...+254705440370
+- 📫 How to reach me ...+254705480370
 
 <!---
 Namsha/Namsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
